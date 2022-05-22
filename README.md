@@ -1,5 +1,5 @@
 ### KEtaN V. Patel -- ELK Stack Project  
-#### _May 21,2022 -- UofT Cybersecurity - Boot Camp_  
+#### _May 21,2022 -- Cybersecurity - Boot Camp_  
 
 Automated ELK Stack Deployment
 ==============================
